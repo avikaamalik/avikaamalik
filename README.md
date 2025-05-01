@@ -5,11 +5,11 @@
 
 - ✌︎︎ I’m currently learning **React**
 
-- ⚝ I’m looking for help with **Backend**
+- 🐣 I’m looking for help with **Backend**
 
-- 𖦹 How to reach me **Avika Malik on Linkden** ((https://www.linkedin.com/in/avikamalik/))
+- 🦩 How to reach me **Avika Malik on Linkden** ((https://www.linkedin.com/in/avikamalik/))
 
-- 𐙚 Fact **I just a girl**
+- 🎀 Fact **I just a girl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
