@@ -1,4 +1,4 @@
-<h1 align="center">Olla',Avika here</h1>
+<h1 align="center">Olla'Avika here</h1>
 <h3 align="center">I am 17 years old developer and digital artist exploring things </h3>
 
 - ☾ I’m currently working on **email verification saas**
