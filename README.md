@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Avika</h1>
-<h3 align="center">I am 17 years old Coding enthusiast</h3>
+<h1 align="center">Olla',Avika here</h1>
+<h3 align="center">I am 17 years old developer and digital artist exploring things </h3>
 
 - ☾ I’m currently working on **email verification saas**
 
-- ✌︎︎ I’m currently learning **React**
+- ✌︎︎ I’m currently learning **javascript**
 
-- 🐣 I’m looking for help with **Backend**
+- 𓁼 I’m looking for help with **Blender**
 
-- 🦩 How to reach me **Avika Malik on Linkden** ((https://www.linkedin.com/in/avikamalik/))
+- 🛩 How to reach me **Avika Malik on Linkden** ((https://www.linkedin.com/in/avikamalik/))
 
-- 🎀 Fact **I just a girl**
+- 𓃮 Fact **Humans came from jungle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
