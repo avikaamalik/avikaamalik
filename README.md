@@ -7,7 +7,7 @@
 
 - 𓁼 I’m looking for help with **Blender**
 
-- 🛩 How to reach me **Avika Malik on Linkden** ((https://www.linkedin.com/in/avikamalik/))
+- ⌯⌲ How to reach me **Avika Malik on Linkden** ((https://www.linkedin.com/in/avikamalik/))
 
 - 𓃮 Fact **Humans came from jungle**
 
