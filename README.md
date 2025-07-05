@@ -1,11 +1,11 @@
-<h1 align="center">Olla'Avika here</h1>
-<h3 align="center">I am 17 years old developer and digital artist exploring things </h3>
+<h1 align="center">hola'Avika here</h1>
+<h3 align="center">I am 17 years full stack old developer and digital artist exploring things </h3>
 
 - ☾ I’m currently working on **email verification saas**
 
-- ✌︎︎ I’m currently learning **javascript**
+- ✌︎︎ I’m currently learning **java and react**
 
-- 𓁼 I’m looking for help with **Blender**
+- 𓁼 I’m looking for help with **react.js**
 
 - ⌯⌲ How to reach me **Avika Malik on Linkden** ((https://www.linkedin.com/in/avikamalik/))
 
